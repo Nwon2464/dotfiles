@@ -1,0 +1,12 @@
+add_newline = false
+
+format = "$python$character"
+
+[python]
+format = '[$virtualenv](bold blue) '
+version_format = ''
+
+[character]
+success_symbol = "[>](bold green) "
+error_symbol = "[>](bold red) "
+vimcmd_symbol = "[<](bold yellow) "

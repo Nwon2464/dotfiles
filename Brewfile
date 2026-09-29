@@ -1,0 +1,13 @@
+brew "git"
+brew "neovim"
+brew "tmux"
+brew "starship"
+brew "ripgrep"
+brew "fd"
+brew "node"
+brew "stylua"
+
+cask "wezterm"
+cask "font-jetbrains-mono-nerd-font"
+cask "font-noto-sans-mono-cjk-kr"
+cask "font-noto-sans-mono-cjk-jp"

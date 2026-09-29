@@ -1,0 +1,8 @@
+# Portable shell settings for the company Mac.
+export EDITOR="nvim"
+export VISUAL="nvim"
+
+eval "$(starship init zsh)"
+
+alias v="nvim"
+alias ll="ls -alF"

@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Machine-local or secret overrides
+local.lua
+*.local
+.env
+.env.*
