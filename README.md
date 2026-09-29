@@ -8,7 +8,6 @@ Configurations for WezTerm, Neovim, tmux, Starship, and zsh on macOS and Linux.
 2. Run `brew bundle` from this repository.
 3. Copy or symlink the configuration files using the table below.
 4. Start Neovim to restore plugins from `lazy-lock.json`.
-5. If needed, run `:MasonInstall html-lsp css-lsp` in Neovim.
 
 ## Configuration paths
 

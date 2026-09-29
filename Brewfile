@@ -4,7 +4,6 @@ brew "tmux"
 brew "starship"
 brew "ripgrep"
 brew "fd"
-brew "node"
 brew "stylua"
 
 cask "wezterm"
